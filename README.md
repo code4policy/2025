@@ -179,3 +179,19 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
 
+## Day 9 (Jan 16)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data in Python
+Guest Speaker | [Dave Zvenyach](https://insights.govforum.io/2024/09/dave-zvenyach-the-architect-of-modern-government-technology/) 
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36) | [FEC-API](https://classroom.github.com/a/Ef2mYUeP) | Sprint 2! 
+
